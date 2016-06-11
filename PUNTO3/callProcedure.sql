@@ -1,0 +1,1 @@
+CALL GetMoviesCountByYear('2000');
